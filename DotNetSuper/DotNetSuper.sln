@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSuper", "DotNetSuper.csproj", "{B9496590-9658-4AE0-BD68-E1D1E8B56C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetSuperTests", "..\DotnetSuperTests\DotnetSuperTests.csproj", "{2A514202-2B82-43ED-8AE4-EDCC6D56DB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9496590-9658-4AE0-BD68-E1D1E8B56C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9496590-9658-4AE0-BD68-E1D1E8B56C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9496590-9658-4AE0-BD68-E1D1E8B56C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9496590-9658-4AE0-BD68-E1D1E8B56C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A514202-2B82-43ED-8AE4-EDCC6D56DB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A514202-2B82-43ED-8AE4-EDCC6D56DB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A514202-2B82-43ED-8AE4-EDCC6D56DB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A514202-2B82-43ED-8AE4-EDCC6D56DB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF08F5E-CD58-4A49-97B1-3FD1B9EA7879}
+	EndGlobalSection
+EndGlobal
